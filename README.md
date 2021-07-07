@@ -26,14 +26,14 @@
 ### Connect Me!
 
 [![Twitter: rashid__kk](https://img.shields.io/twitter/follow/rashid__kk?style=social)](https://twitter.com/rashid__kk)
-[![Linkedin: rashid_k_k/](https://img.shields.io/badge/-rashid_k_k-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rashid_k_k/)](https://www.linkedin.com/in/rashid_k_k/)
+[![Linkedin: rashidkk/](https://img.shields.io/badge/-rashidkk-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rashidkk/)](https://www.linkedin.com/in/rashidkk/)
 [![GitHub rashidmrkk](https://img.shields.io/github/followers/rashidmrkk?label=follow&style=social)](https://github.com/rashidmrkk)
 <!-- [![website](https://img.shields.io/badge/PortfolioWebsite-fuadaslam-2648ff?style=flat-square&logo=google-chrome)](https://fuadaslam.github.io/MyPorfolio/) -->
 
 <a href="https://twitter.com/rashid__kk">
   <img align="left" alt="Rashid's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
-<a href="https://linkedin.com/in/rashid_k_k/">
+<a href="https://linkedin.com/in/rashidkk/">
   <img align="left" alt="Rashid's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <a href="https://github.com/rashidmrkk">

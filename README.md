@@ -6,7 +6,8 @@
 
 👨‍💻 Software Engineer at [Techpullers](https://techpullers.com/)
 
-<img src="https://cdn.worldvectorlogo.com/logos/flutter-logo.svg" alt="Flutter" width="20" height="20"> You can find some of my projects here on my GitHub mainly in React, Nodejs, JavaScript with UI projects, packages, ...
+<!-- <img src="https://cdn.worldvectorlogo.com/logos/flutter-logo.svg" alt="Flutter" width="20" height="20">  -->
+You can find some of my projects here on my GitHub mainly in React, Nodejs, JavaScript with UI projects, packages, ...
 
 - 🌱 I’m currently learning Flutter
 - 👯 I’m looking to collaborate on Web Development Project

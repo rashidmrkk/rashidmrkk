@@ -102,34 +102,20 @@
 <p align="center">
   <a href="https://github.com/rashidmrkk"><span>
     <img height="48%" src="https://github-readme-stats.vercel.app/api?username=rashidmrkk&count_private=true&show_icons=true&theme=radical&&include_all_commits=true"/>
-    <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=amandewatnitrr&theme=radical" />
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=amandewatnitrr&hide=html,css,javascript,scss&layout=compact&langs_count=8&theme=radical"/>
-    <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=amandewatnitrr&theme=dracula" />
+    <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=rashidmrkk&theme=radical" />
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=rashidmrkk&hide=html,css,javascript,scss&layout=compact&langs_count=8&theme=radical"/>
+    <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rashidmrkk&theme=dracula" />
     </span></a>
 </p>
   
 <br>
   
-### 🏆 GitHub Profile Trophy:
-<p align="center">
-<a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img width=800 src="https://github-profile-trophy.vercel.app/?username=rashidmrkk&column=8&theme=onedark&no-frame=true&no-bg=true"/>
-</a>
-</p>
+
 
 ### 📈 GitHub Activity:
   <a href="https://github.com/amandewatnitrr/github-readme-activity-graph"><img alt="DenverCoder1's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=rashidmrkk&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
 
 <p align="center">
-<a href="https://profile.codersrank.io/user/amandewatnitrr"><img width="494px" src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=amandewatnitrr&layout=horizontal&badges=3&show-avatar=true&min-width=494px&branding=false&style=--bg-color:%23fff;--border:1px%20solid%23e4e2e2;--border-radius:4px;--header-padding:20px;--header-bg-color:%232f80ed;--name-font-size:18px;--name-font-weight:bold;--rank-font-size:14px;--preloader-color:%232f80ed;--badges-padding:20px;--badge-box-shadow:none;--badge-border:1px%20solid%23e4e2e2;--badge-rank-font-size:12px;--badge-location-font-size:12px;--badge-padding:10px;--badge-margin:10px;--badge-icon-size:16px;--badge-technology-font-size:14px;--badge-technology-font-weight:normal)" /></a>
-</p>
 
-<br>  
-
-##
-<p align="center"> 
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/rashidmrkk/count.svg" />
-</p>
-  
+<br>    
 

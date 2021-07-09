@@ -13,12 +13,12 @@
 <a href="https://www.instagram.com/rashid_k_k/">
   <img align="left" alt="akd's Instagram" width="100px" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
 </a>
-
-<br><br>
-
 <a href="mailto:rashidkkmuhammed@gmail.com">
   <img align="left" alt="akd's codechef" width="70px" src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white" />
 </a>
+<br><br>
+
+
 
 <br><br>
 ![](https://github.com/amandewatnitrr/amandewatnitrr/blob/main/header_.png)
@@ -29,27 +29,17 @@
 <img align="right" src="https://github.com/amandewatnitrr/amandewatnitrr/blob/main/terminal.gif" width="40%"/>
   <br>
 
-- 👷 <samp>Currently pursuing B.Tech in Electrical Engrineering(2018-2022) from National Institute of Technology Raipur
-- 🔭 <samp>Diploma in Computer Applications from C.V.Raman University(2020) - 83.85%
-- ✍🏻 <samp>Core Member of IEEE Bombay Section Technical and Professional Committee 
-- 🥇 <samp>Runner Up Robothon_1.0(March 2020) || Runner Up Apscript Hackathon(Febrruary 2021) || E-Ujjwala Hackathon Finalists(August 2020) 
-- 💼 <samp>I’m looking for **Internship/Full-Time(PPO)** Opportunities/roles.
-- 💬 <samp>Ask me about IoT/Arduino/Raspberry-Pi/PHP-Dev/Cloud Architecture
-- 🤔 <samp>I’m looking for help with how to excel in Competitive Programming
-- ⚡ <samp>Fun fact: I am kinda boring and sometimes dumb though, but I am a determined guy.
-- ♟ <samp>I play a lot of chess, and I am 1200 FIDE rated.
-</div>
+💻 Software Engineer at [Techpullers](https://techpullers.com/)
 
-##
+<img src="https://cdn.worldvectorlogo.com/logos/flutter-logo.svg" alt="Flutter" width="20" height="20"> You can find some of my projects here on my GitHub mainly in Flutter/Dart with UI projects, packages, ...
 
-<div>
-<h3><b><samp>Experiences:</samp></b></h3>
-- 👷 <samp>Core Member of IEEE Bombay Section Technical and Professional Committee(Aug,2020 - May,2022)<br>
-- 🔬 <samp>Research Student at Wolfram Summer School, 2021 (Education and Innovation Track)<br>
-- 🕵🏻 <samp>Summer Research Intern at National Institute of Technology Raipur, Chhattisgarh(May,2020 - Aug,2020)<br>
-- 👨🏾‍💻 <samp>Embedded IoT Intern at SVA Robotics(Sep,2020 - Oct,2020)<br>
-- ☄️ <samp>Girlscript Ireland - Training - Game Development(August,2020)<br>
-- ☁ <samp>30 Days of Google Cloud(Cloud Engnieering Track)<br>
+- 🌱 I’m currently learning Angular and Deno
+- 👯 I’m looking to collaborate on Web Development Project
+- 🤔 I’m looking for help with Mobile Development
+- 💬 Ask me about Flutter or any othr tech stuff
+- 😄 Pronouns: He/His
+- ⚡ Fun fact:I spend almost 12 hours listening songs everyday.
+
 </div>
 
 ##
